@@ -1,1 +1,61 @@
 # week4-grid-lab
+# คำสั่งที่ใช้
+- git clone https://github.com/Boonyakid-Poompeng/week4-grid-lab
+- cd week4-grid-lab
+- ( สร้าง index.html )
+- ( สร้าง css/styles.css )
+- git add css/styles.css
+- git add index.html
+- git commit -m “init project”
+- ( แก้ไข index.html )
+- git add index.html
+- git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน"
+- ( แก้ไข index.html )
+- git add index.html
+- git commit -m "แก้ไข href ให้เข้า css ก่อน"
+- ( แก้ไข css )
+- git add css/styles.css
+- git commit -m "เพิ่ม Grid Layout พื้นฐาน"
+- ( แก้ไข css )
+- git add css/styles.css
+- git commit -m "เพิ่ม Media Queries สาหรับ Responsive Design"
+- ( แก้ไข index )
+- git add index.html
+- git commit -m "เพิ่มเนื้อหาจําลองสาหรับทดสอบ Responsive"
+- ( แก้ไข css )
+- git add css/styles.css
+- git commit -m "เพิ่ม CSS Animations"
+- ( แก้ไข css )
+- git add css/styles.css
+- git commit -m "เพิ่ม Hover Effects"
+- ( สร้างไฟล์ gallery.html, css/styles-gallery.css และ js/script.js )
+- ( แก้ไข gallery.html )
+- git add gallery.html
+- git commit -m "สร้างโครงสร้าง HTML สาหรับแกลเลอรี่"
+- ( แก้ไข styles-gallery.css )
+- git add css/styles-gallery.css 
+- git commit -m "เพิ่ม Masonry Layout ด้วย CSS Grid"
+- git push
+- ( แก้ไข gallery.html )
+- git add gallery.html
+- git commit -m “แก้ไขคำภาษาไทย”
+- ( แก้ไข styles-gallery.css )
+- git add css/styles-gallery.css 
+- git commit -m "เพิ่ม Media Queries สาหรับ Responsive Gallery"
+- ( แก้ไข gallery.html )
+- git add gallery.html
+- git commit -m "เพิ่มรูปภาพและ Lazy Loading"
+- ( แก้ไข styles-gallery.css )
+- git add css/styles-gallery.css 
+- git commit -m "เพิ่ม Hover และ Loading Animations"
+- ( แก้ไข js/script.js )
+- git add js/script.js
+- git commit -m "เพิ่ม Filter Animations"
+- ( แก้ไข gallery.html )
+- git add gallery.html
+- git commit -m "เชื่อมต่อ JavaScript"
+- git push
+- ( เพิ่มคำสั่งที่ใช้ใน README )
+- git add README.md
+- git commit -m “เพิ่มคำสั่งที่ใช้”
+- git push
